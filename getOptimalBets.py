@@ -138,7 +138,7 @@ def getTodaysBets(year, month, day):
     gamestdy = getGamePksTeams(year, month, day)
     allGamesJsonList = []
 
-    excludeGames = [746432, 746748, 745945, 745135,746514,747159,746670,745531,746514]
+    excludeGames = []
     
     for game in gamestdy:
         if game.gamePk in excludeGames:
@@ -199,7 +199,7 @@ def getOneGameData(game, year, month, day):
 #print("*")
     print(gameJson)
     return gameJson
-print(getTodaysBets(2024, 8, 30))
+print(getTodaysBets(2024, 9, 11))
 
 
 
