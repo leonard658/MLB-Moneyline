@@ -1,6 +1,6 @@
 # MLB Game predictor:
 ## Currently a work in progress and is extremely messy.
-### Basic rundown of things inside:
+### Very basic rundown of things inside:
 functions to compile data held in - getLineup.py, getOddsData.py, getRecentStats.py, buildData.py...
 
 csv files hold the compiled data - main training data is held in CombinedWithWin files.
