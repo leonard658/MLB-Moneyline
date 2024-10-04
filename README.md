@@ -12,6 +12,8 @@ glStuff folder just holds previously data I was experiment with.
 I've been getting daily bets by running getOptimalBets.py file and changing the date at the bottom.
 This goes through all the games on the given date, compiles the needed stats and produces a prediction for every game.
 
+The NoFeatureEngineering.txt file is the physical current model.
+
 ### Upcoming plans:
 Currently building out frontend.
 
