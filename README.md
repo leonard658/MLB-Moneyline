@@ -7,7 +7,7 @@ csv files hold the compiled data - main training data is held in CombinedWithWin
 
 Jupyter Notebooks hold the actual model development and analysis.
 
-glStuff folder just holds previously data I was experiment with.
+glStuff folder just holds previously data I was experimenting with.
 
 I've been getting daily bets by running getOptimalBets.py file and changing the date at the bottom.
 This goes through all the games on the given date, compiles the needed stats and produces a prediction for every game.
