@@ -199,7 +199,7 @@ def getOneGameData(game, year, month, day):
 #print("*")
     print(gameJson)
     return gameJson
-print(getTodaysBets(2024, 9, 11))
+print(getTodaysBets(2024, 1, 1))
 
 
 
