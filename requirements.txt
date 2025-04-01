@@ -1,0 +1,9 @@
+flask
+pandas
+numpy==1.23.5
+matplotlib
+lightgbm
+#structureboost
+ml_insights
+requests
+bs4
